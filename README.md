@@ -1,6 +1,6 @@
 # Project 2 - Deploy a High-Availability Web App using CloudFormation 
 
-![img-1](Images-of-result-deploy/Diagram-Of-Udagram-Project.jpeg)
+![img-1](visual_aid_for_the_cloudformation_script.jpg)
 
 > In this project (Udagram App), I deployed web servers for a highly available web app using CloudFormation.
 > I wrote the script that creates and deploys the infrastructure and application for an Udagram app from the ground up.
@@ -8,7 +8,6 @@
 
 ## The files included are:
 ```sh
-* /Images-of-result-deploy : Screenshot the result of deploy.
 * /App of Udagram : Udagram App Code (Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function etc ...)
 * create.sh : Cloudformation create stack script. 
 * update.sh : Cloudformation update stack script.
